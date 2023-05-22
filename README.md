@@ -1,2 +1,2 @@
 # bootstapBegin
-dit is een bootstrap begin voor infpormatica
+dit is een bootstrap begin voor informatica
